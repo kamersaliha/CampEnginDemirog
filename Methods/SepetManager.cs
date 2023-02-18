@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Methods
 {
-    internal class SepetManager
+    class SepetManager
     {
         //naming convention
         public void Add(Product x)
